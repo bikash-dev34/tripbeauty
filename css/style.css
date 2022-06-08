@@ -27,6 +27,9 @@ h2 {
 .offer {
   background: pink;
 }
+footer p {
+  padding-bottom: 0;
+}
 /* ---------------------------media query------------------------------------- */
 /* // X-Small devices (portrait phones, less than 576px)
 // No media query for `xs` since this is the default in Bootstrap */
